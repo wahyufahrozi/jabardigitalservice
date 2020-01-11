@@ -1,0 +1,13 @@
+.form-group {
+  margin: 0 auto;
+  width: 50%;
+  margin-top: 100px;
+}
+
+.form-group label {
+  font-size: 25px;
+}
+
+.job-experience label {
+  font-size: 15px;
+}
